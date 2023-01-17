@@ -83,7 +83,7 @@ const Footer = () => {
       <div className="flex flex-col lg:flex-row xl:flex-row flex-nowrap justify-between items-center space-x-auto gap-4 space-y-2 m-2 p-4">
         <h3 className="inline-flex text-md font-oswald text-[#463AFF] hover:text-[#111] ease-in duration-300 delay-100">
           &copy;&nbsp;2022&nbsp;&middot;&nbsp;
-          <a href="/https://yourishanvelle.dev/" title="Ishan Velle" target="_blank" rel="noreferrer">
+          <a href="https://yourishanvelle.dev/" title="Ishan Velle" target="_blank" rel="noreferrer">
             Ishan&nbsp;Velle
           </a>
         </h3>
