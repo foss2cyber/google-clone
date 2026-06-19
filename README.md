@@ -1,4 +1,4 @@
-# Google Homepage Clone (work in progress!)
+# Google Homepage Clone (Archived)
 
 ```js
 
